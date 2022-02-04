@@ -1,0 +1,17 @@
+C:\Users\mroja\Documents\VISUALDOCUMENTOS\8611954_Tienda\bin\Debug\net6.0-windows\8611954_Tienda.exe
+C:\Users\mroja\Documents\VISUALDOCUMENTOS\8611954_Tienda\bin\Debug\net6.0-windows\8611954_Tienda.deps.json
+C:\Users\mroja\Documents\VISUALDOCUMENTOS\8611954_Tienda\bin\Debug\net6.0-windows\8611954_Tienda.runtimeconfig.json
+C:\Users\mroja\Documents\VISUALDOCUMENTOS\8611954_Tienda\bin\Debug\net6.0-windows\8611954_Tienda.dll
+C:\Users\mroja\Documents\VISUALDOCUMENTOS\8611954_Tienda\bin\Debug\net6.0-windows\ref\8611954_Tienda.dll
+C:\Users\mroja\Documents\VISUALDOCUMENTOS\8611954_Tienda\bin\Debug\net6.0-windows\8611954_Tienda.pdb
+C:\Users\mroja\Documents\VISUALDOCUMENTOS\8611954_Tienda\obj\Debug\net6.0-windows\8611954_Tienda.vbproj.AssemblyReference.cache
+C:\Users\mroja\Documents\VISUALDOCUMENTOS\8611954_Tienda\obj\Debug\net6.0-windows\_8611954_Tienda.Form1.resources
+C:\Users\mroja\Documents\VISUALDOCUMENTOS\8611954_Tienda\obj\Debug\net6.0-windows\8611954_Tienda.vbproj.GenerateResource.cache
+C:\Users\mroja\Documents\VISUALDOCUMENTOS\8611954_Tienda\obj\Debug\net6.0-windows\8611954_Tienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mroja\Documents\VISUALDOCUMENTOS\8611954_Tienda\obj\Debug\net6.0-windows\8611954_Tienda.AssemblyInfoInputs.cache
+C:\Users\mroja\Documents\VISUALDOCUMENTOS\8611954_Tienda\obj\Debug\net6.0-windows\8611954_Tienda.AssemblyInfo.vb
+C:\Users\mroja\Documents\VISUALDOCUMENTOS\8611954_Tienda\obj\Debug\net6.0-windows\8611954_Tienda.vbproj.CoreCompileInputs.cache
+C:\Users\mroja\Documents\VISUALDOCUMENTOS\8611954_Tienda\obj\Debug\net6.0-windows\8611954_Tienda.dll
+C:\Users\mroja\Documents\VISUALDOCUMENTOS\8611954_Tienda\obj\Debug\net6.0-windows\ref\8611954_Tienda.dll
+C:\Users\mroja\Documents\VISUALDOCUMENTOS\8611954_Tienda\obj\Debug\net6.0-windows\8611954_Tienda.pdb
+C:\Users\mroja\Documents\VISUALDOCUMENTOS\8611954_Tienda\obj\Debug\net6.0-windows\8611954_Tienda.genruntimeconfig.cache
